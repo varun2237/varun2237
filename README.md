@@ -131,21 +131,7 @@ the organization.</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varun2237&" alt="varun2237" /></p>
 
-### STRENGTHS:
-• Strong problem-solving skills, analytics skills, and communication skills.
-• Creative
-• Excellent listener
-• Friendly, courteous, & service oriented
-• Quality assurance
-• Poised under pressure
 
-### ACTIVITES & INTRESTS
-• Table Tennis
-• Doing Sports
-• Learning Languages
-• Traveling/Exploring Places.
-• Reading
-• Chess
 
 ### WORK EXPERIENCE:
 * Experience in PHP programming. Laravel Framework.
@@ -163,6 +149,22 @@ the organization.</p>
 * Data visualizing on Power BI, tableau.
 * Solid understanding of core graphic design principles including visual hierarchy, colour theory, layouts & grids and typography Experience as a BI technology, systems analyst using power Bi/Tableau.
 * Test and Debug programs.
+
+### STRENGTHS:
+• Strong problem-solving skills, analytics skills, and communication skills.
+• Creative
+• Excellent listener
+• Friendly, courteous, & service oriented
+• Quality assurance
+• Poised under pressure
+
+### ACTIVITES & INTRESTS
+• Table Tennis
+• Doing Sports
+• Learning Languages
+• Traveling/Exploring Places.
+• Reading
+• Chess
 
 ### Connect WITH ME:
 <p align="left">
