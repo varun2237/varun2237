@@ -307,16 +307,16 @@
   
 <p align="left"> 
   
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/varun-gupta-03a62a26a/" target="blank"> <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varun-gupta-03a62a26a/"   height="30"    width="40" /></a> 
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/varun-gupta-03a62a26a/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varun-gupta-03a62a26a/"   height="30"    width="40" /></a> 
   
-  <a href="https://www.freecodecamp.org/Varun2237" target="blank"> <img align="left" src="https://raw.githubusercontent.com/gist/Deftwun/e3756a8b518cbb354425/raw/6584db8babd6cbc4ecb35ed36f0d184a506b979e/free-code-camp-logo.svg"
+  <a href="https://www.freecodecamp.org/Varun2237" target="blank"> <img align="center" src="https://raw.githubusercontent.com/gist/Deftwun/e3756a8b518cbb354425/raw/6584db8babd6cbc4ecb35ed36f0d184a506b979e/free-code-camp-logo.svg"
     alt="hhttps://www.freecodecamp.org/Varun2237"   height="30"    width="40" /></a> 
     
-  <a href="https://www.kaggle.com/varungupta2237" target="blank"> <img align="left" src="https://raw.githubusercontent.com/varun2237/varun2237/08753bd2fcb478d6ff0f3547afcad814e11d2ee4/kaggle-color.svg"
+  <a href="https://www.kaggle.com/varungupta2237" target="blank"> <img align="center" src="https://raw.githubusercontent.com/varun2237/varun2237/08753bd2fcb478d6ff0f3547afcad814e11d2ee4/kaggle-color.svg"
     alt="https://www.kaggle.com/varungupta2237"   height="50"    width="70" /></a>
     
 </p>
-    
 </div>
+
 <hr> 
 
