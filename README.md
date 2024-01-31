@@ -113,25 +113,29 @@ the organization.</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varun2237&show_icons=true&locale=en&layout=compact" alt="varun2237" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varun2237&show_icons=true&locale=en" alt="varun2237" /></p>
 
-### PROJETCS:
-
-* **Build an E-Commerce Website PHP Project**
-* **Blood Bank App PHP Project**
-* **QA Survey PHP Project**
-* **Build a Retail Billing System using Python Tkinter GUI**
-* **Predict the Health outcomes of Horses**
-* **Stanford Ribonanza RNA Folding**
-* **SQL Database Management**
-* **Sales data Analysis**
-* **Age Prediction**
-* **Diabetes Prediction**
-* **Fake News Detection, Stock Market Performance Analysis**
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varun2237&" alt="varun2237" /></p>
-
-
+  <div class="row"> 
+    <div class="column" style="float: left;  width: 50%;">  
+      <label> <h3> PROJETCS: </h3> </label> 
+      <label> <h4> <> Build an E-Commerce Website PHP Project </h4> </label>
+      <label> <h4> <> Blood Bank App PHP Project </h4> </label>
+      <label> <h4> <> QA Survey PHP Projectt </h4> </label>
+      <label> <h4> <> Build a Retail Billing System using Python Tkinter GUI </h4> </label>
+      <label> <h4> <> Stanford Ribonanza RNA Folding </h4> </label>
+      <label> <h4> <> SQL Database Management </h4> </label>
+      <label> <h4> <> Sales data Analysis </h4> </label>
+      <label> <h4> <> Age Prediction </h4> </label>
+      <label> <h4> <> Diabetes Prediction </h4> </label>
+      <label> <h4> <> Age Prediction </h4> </label>
+      <label> <h4> <> Fake News Detection, Stock Market Performance Analysis </h4> </label>
+    </div>
+     <div class="column" style="float: left;  width: 50%;">  
+        <label><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=varun2237&" alt="varun2237" /> </label>
+    </div>
+  </div>
+</div>
 
 ### WORK EXPERIENCE:
 * Experience in PHP programming. Laravel Framework.
