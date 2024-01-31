@@ -18,12 +18,52 @@ the organization.</p>
 * 📞 +91-9650663011
 
 ### EDUCATION & CERTIFICATION:
-* MySQL Basics ---> Great Learning Academy ---> 2023
-* Power-BI ---> Great Learning Academy ---> 2023
-* Statistics for Data Science ---> Great Learning Academy ---> 2022
-* Data Science & Machine Learning ---> Simplilearn ---> 2020
-* Python Programming ---> Simplilearn ---> 2020
-* B.Tech. ---> S.K.I.T Jaipur, Rajasthan ---> 2006-2010
+
+<table>
+  <thead>
+    <tr>
+      <th>Course</th>
+      <th>Institute Name</th>
+      <th>Year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>MySQL Basics</td>
+      <td>Great Learning Academy</td>
+      <td>2023</td>
+    </tr>
+    <tr>
+      <td>Power-BI</td>
+      <td>Great Learning Academy</td>
+      <td>2023</td>
+    </tr>
+    <tr>
+      <td>Statistics for Data Science</td>
+      <td>Great Learning Academy</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Data Science & Machine Learning</td>
+      <td>Simplilearn</td>
+      <td>2020</td>
+    </tr>
+    <tr>
+      <td>Python Programming</td>
+      <td>Simplilearn</td>
+      <td>2020</td>
+    </tr>
+    <tr>
+      <td>B.Tech</td>
+      <td>S.K.I.T Jaipur, Rajasthan </td>
+      <td>2006-2010</td>
+    </tr>
+    
+    
+  <tbody>
+
+</table>
+
 
 ### Connect WITH ME:
 <p align="left">
