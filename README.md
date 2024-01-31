@@ -8,14 +8,13 @@ knowledge and efforts, to my career and to the organization and be a
 part of the team that excels in work towards the growth and success of
 the organization.</p>
 
-### SKILLS:
-* 📱 HTML | CSS | BOOTSTRAP
-* 🖥️ PHP | PYTHON | JAVASCRIPTS |LARAVEL
-* 🌐 SQL | MySQL | DATABSE MANAGEMENT 
+### CONTACT ME:      
+📨 **varungupta2237@gmail.com**    
+📞 +91-9650663011
 
-### CONTACT ME:
-* 📨 **varungupta2237@gmail.com**
-* 📞 +91-9650663011
+### SKILLS:
+*  **HTML | CSS | BOOTSTRAP | PHP | PYTHON | JAVASCRIPTS | LARAVEL | SQL | MySQL | DATABASE MANAGEMENT** 
+
 
 ### EDUCATION & CERTIFICATION:
 
@@ -64,11 +63,6 @@ the organization.</p>
 
 </table>
 
-
-### Connect WITH ME:
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/varun-gupta-03a62a26a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varun-gupta-03a62a26a/" height="30" width="40" /></a>
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varun2237&show_icons=true&locale=en&layout=compact" alt="varun2237" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varun2237&show_icons=true&locale=en" alt="varun2237" /></p>
@@ -127,6 +121,12 @@ the organization.</p>
 * Solid understanding of core graphic design principles including visual hierarchy, colour theory, layouts & grids and typography Experience as a BI technology, systems analyst using power Bi/Tableau.
 * Test and Debug programs.
 
+
+
+### Connect WITH ME:
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/varun-gupta-03a62a26a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varun-gupta-03a62a26a/" height="30" width="40" /></a>
+</p>
 
 
 
