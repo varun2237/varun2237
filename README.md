@@ -8,15 +8,24 @@ knowledge and efforts, to my career and to the organization and be a
 part of the team that excels in work towards the growth and success of
 the organization.</p>
 
-### SKILLS 
+### SKILLS:
 * 📱 HTML | CSS | BOOTSTRAP
-* 🖥️ PHP | PYTHON | JAVASCRIPTS
+* 🖥️ PHP | PYTHON | JAVASCRIPTS |LARAVEL
+* 🌐 SQL | MySQL | DATABSE MANAGEMENT 
 
-### CONTACT ME 
+### CONTACT ME:
 * 📨 **varungupta2237@gmail.com**
 * 📞 +91-9650663011
 
-### Connect with me:
+### EDUCATION & CERTIFICATION:
+* MySQL Basics ---> Great Learning Academy ---> 2023
+* Power-BI ---> Great Learning Academy ---> 2023
+* Statistics for Data Science ---> Great Learning Academy ---> 2022
+* Data Science & Machine Learning ---> Simplilearn ---> 2020
+* Python Programming ---> Simplilearn ---> 2020
+* B.Tech. ---> S.K.I.T Jaipur, Rajasthan ---> 2006-2010
+
+### Connect WITH ME:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/varun-gupta-03a62a26a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varun-gupta-03a62a26a/" height="30" width="40" /></a>
 </p>
@@ -29,5 +38,57 @@ the organization.</p>
 <p align="left"> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
+### PROJETCS:
+
+* **Build an E-Commerce Website PHP Project**
+* **Blood Bank App PHP Project**
+* **QA Survey PHP Project**
+* **Build a Retail Billing System using Python Tkinter GUI**
+* **Predict the Health outcomes of Horses**
+* **Stanford Ribonanza RNA Folding**
+* **SQL Database Management**
+* **Sales data Analysis**
+* **Age Prediction**
+* **Diabetes Prediction**
+* **Fake News Detection, Stock Market Performance Analysis**
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varun2237&" alt="varun2237" /></p>
+
+### STRENGTHS:
+• Strong problem-solving skills, analytics skills, and communication skills.
+• Creative
+• Excellent listener
+• Friendly, courteous, & service oriented
+• Quality assurance
+• Poised under pressure
+
+### ACTIVITES & INTRESTS
+• Table Tennis
+• Doing Sports
+• Learning Languages
+• Traveling/Exploring Places.
+• Reading
+• Chess
+
+### WORK EXPERIENCE:
+* Experience in PHP programming. Laravel Framework.
+* Experience of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript, XML, jQuery)
+* Experience of multiple back-end languages and frameworks, such as Python, JavaScript, React and Node.js
+* Strong experience in Database based programming with preference given to MongoDB and MS SQL Server knowledge.
+* Experience developing REST applications on modern MVC PHP frameworks such as Laravel.
+* Experience building secure web applications.
+* An understanding of the importance of User Experience & User Interface
+* Experience using common third-party APIs.
+* Experience developing highly scalable and composable RESTful APIs (JSON, XML API design)
+* Experience in Authentication and authorization standards such as Auth.
+* Use version control practices (Git, Git Flow, and/or GitHub Flow) & its ecosystem.
+* Database Management
+* Data visualizing on Power BI, tableau.
+* Solid understanding of core graphic design principles including visual hierarchy, colour theory, layouts & grids and typography Experience as a BI technology, systems analyst using power Bi/Tableau.
+* Test and Debug programs.
+
+
+
+
+
 
